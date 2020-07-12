@@ -1,7 +1,6 @@
 # ☁️ Goorm ☁️
 
-본명 이상엽.<br>
-웹, 응용프로그램 개발자입니다.
+본명 이상엽. 웹, 응용프로그램 개발자입니다.
 
 ### 스택
 
@@ -19,4 +18,9 @@
 #### 게임
 * Unity3D
 
+
+<div align="right">
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cstria0106@gmail.com)](mailto:cstria0106@gmail.com)
+
+</div>
