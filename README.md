@@ -5,7 +5,7 @@
 ### 스택
 
 #### 프로그래밍 언어
-* Javascript
+* JavaScript
 * C#
 * Java
 * Python
