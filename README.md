@@ -1,5 +1,5 @@
-#  ☁️ Goorm ☁️
- 
+<img width="100%" src="https://github.com/cstria0106/cstria0106/blob/master/banner.png?raw=true" alt="배너">
+
 본명 이상엽. 웹, 응용프로그램 개발자입니다.
  
 <img align="right" height="200" src="https://github.com/cstria0106/cstria0106/blob/master/miku-clap.webp?raw=true" alt="박수치는 미쿠">
