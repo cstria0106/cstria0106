@@ -10,7 +10,6 @@
 - 스타트업 컨플에서 현장실습 재직하며 밀리언 애플리케이션 개발 중
   
 ### 사용하는 것
-<img align="right" height="200" src="https://github.com/cstria0106/cstria0106/blob/master/hacker.jpg?raw=true" alt="해커">
 
 #### 웹
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="32" height="32"/>
@@ -20,7 +19,6 @@
 
 #### 컴퓨팅
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32"/>
-<img align="right" width="400" src="https://github.com/cstria0106/cstria0106/blob/master/hacking.png?raw=true" alt="해킹">
 
 ### 관심있는 것
 
