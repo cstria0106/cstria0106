@@ -13,12 +13,9 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="32" height="32"/>
 
-### 관심있는 것
+### 공부하는 것
 
-#### 프로그래밍 언어
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="go" width="32" height="32"/>
-
-#### 기타
 
 - 게임 개발
 - 프로그래밍 언어
