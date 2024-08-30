@@ -19,9 +19,3 @@ My name is Lee Sangyeop. I'm currently a master's student in the [Intelligence i
 - TypeScript
 - Rust
 ```
-
-```sh
-❤️ Studying Languages
-
-- C++
-```
